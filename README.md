@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhiraj1996
 - 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...Javascript
-- 💞️ I’m looking to collaborate on ...Anywher
+- 🌱 I’m currently learning ...Frontend
+- 💞️ I’m looking to collaborate on ...Anywhere
 - 📫 How to reach me ...dhirajkumar1996@gmail.com
 
 <!---
